@@ -6,5 +6,6 @@ public class Git_Sample {
 		
 		System.out.println("TEST");
 		System.out.println("welcome to github learning platform");
+		System.out.println("done");
 	}
 }
